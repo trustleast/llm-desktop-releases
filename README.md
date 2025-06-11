@@ -1,1 +1,1 @@
-# llm-desktop-releases
+# Peerwave Releases
